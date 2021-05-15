@@ -1,5 +1,12 @@
 *.RData filter=lfs diff=lfs merge=lfs -text
 data/US_Accidents_Dec20.RData filter=lfs diff=lfs merge=lfs -text
+accidents/** filter=lfs diff=lfs merge=lfs -text
+accidents/accidents.Rproj filter=lfs diff=lfs merge=lfs -text
+accidents/data filter=lfs diff=lfs merge=lfs -text
+accidents/man filter=lfs diff=lfs merge=lfs -text
+accidents/DESCRIPTION filter=lfs diff=lfs merge=lfs -text
+accidents/NAMESPACE filter=lfs diff=lfs merge=lfs -text
+accidents/R filter=lfs diff=lfs merge=lfs -text
 *.Rbuildignore filter=lfs diff=lfs merge=lfs -text
 *.Rhistory filter=lfs diff=lfs merge=lfs -text
 /accidents/.Rproj.user/3064E3C6/build_options filter=lfs diff=lfs merge=lfs -text
