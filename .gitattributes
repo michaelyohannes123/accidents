@@ -1,5 +1,5 @@
-data/US_Accidents_Dec20.RData filter=lfs diff=lfs merge=lfs -text
 *.RData filter=lfs diff=lfs merge=lfs -text
+data/US_Accidents_Dec20.RData filter=lfs diff=lfs merge=lfs -text
 *.Rbuildignore filter=lfs diff=lfs merge=lfs -text
 *.Rhistory filter=lfs diff=lfs merge=lfs -text
 /accidents/.Rproj.user/3064E3C6/build_options filter=lfs diff=lfs merge=lfs -text
