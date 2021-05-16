@@ -12,9 +12,12 @@ The purpose of the package, as stated earlier, is to make it easier to retrieve 
 
 ## Installation
 
-To install do the following command: 
+To install the package from R Studio do the following commands: 
 
+``` r
+library(devtools)
 install_github("michaelyohannes123/accidents", subdir="accidents")
+```
 
 Once installed you can import the package as the following:
 
