@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10929079c73adaba49a7b968b53f52f7d8985af3c6da7460fecc4e36a2c27605
-size 882
+Package: accidents
+Type: Package
+Title: US Car Accident Data
+Version: 0.1.0
+Author: M.Y.
+Maintainer: M.Y. <myohannes@uchicago.edu>
+Description: 
+    The dataset is of US car accidents from 2016-2020. 
+    The package enables quick accidents data retrieval 
+    of any particular city, which can be used 
+    for further analysis.
+License: `use_cc0_license()` 
+LazyData: true
+Encoding: UTF-8
+Imports: 
+  data.table, 
+  sf
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

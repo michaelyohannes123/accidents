@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8bd78bee1c76172a2cf716d23db09c29c3d97c5cba835d4650be6f863efb3199
-size 233
+C:/Users/miket/Documents/accidents_package/.gitattributes="F09DD274"
+C:/Users/miket/Documents/accidents_package/accidents/.Rbuildignore="6FAFCF47"
+C:/Users/miket/Documents/accidents_package/accidents/.gitattributes="26AEEBB1"
+C:/Users/miket/Documents/accidents_package/accidents/DESCRIPTION="75E291AE"
+C:/Users/miket/Documents/accidents_package/accidents/NAMESPACE="5C154A18"
+C:/Users/miket/Documents/accidents_package/accidents/R/accident_package.R="2785603A"
+C:/Users/miket/Documents/accidents_package/accidents/README.md="CEF9E0D3"
+C:/Users/miket/Documents/accidents_package/accidents/tests/testthat/test-accident_package.R="C550D1BC"
