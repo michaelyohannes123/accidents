@@ -14,18 +14,13 @@ The purpose of the package, as stated earlier, is to make it easier to retrieve 
 
 To install do the following command: 
 
-install_github("michaelyohannes123/accidents_package", subdir="accidents")
+install_github("michaelyohannes123/accidents", subdir="accidents")
 
-``` r
-install.packages("accidents")
-```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
+Once installed you can import the package as the following:
 
 ``` r
 library(accidents)
-getPlaceDataAsList("Chicago", "Cook", "IL")
 ```
+
+
 
