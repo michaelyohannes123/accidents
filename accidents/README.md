@@ -25,5 +25,12 @@ Once installed you can import the package as the following:
 library(accidents)
 ```
 
+## Example Commands
+
+``` r
+getPlaceNames()
+getPlaceDataAsList("Chicago", "Cook", "IL")
+getPlaceDataAsPoints("Chicago", "Cook", "IL")
+```
 
 
